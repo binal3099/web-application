@@ -132,7 +132,7 @@ function Adddata() {
                         </Form>
                     </div>
                     <div className="col-6">
-                        <img src={img1} alt="img-1" style={{ width: "90%", height: "90%", marginLeft:"40px"}} />
+                        <img src={img1} alt="img-1" style={{ width: "90%", height: "80%", marginLeft:"40px"}} />
                     </div>
 
                 </div>

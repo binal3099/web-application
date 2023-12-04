@@ -22,3 +22,7 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
 }
+img, svg {
+    vertical-align: middle !important;
+    margin-top: 50px;
+}
